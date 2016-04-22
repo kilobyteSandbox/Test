@@ -1,3 +1,6 @@
 SUPER SECRET
 ============
 Password is password.
+
+Clone, commit, push
+Local main addition.  Soylent Green is people.
